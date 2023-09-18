@@ -1,10 +1,10 @@
  Hellow world!
  
-🔭 Atualmente Trabalhando com Delphi. 
+🔭 Atualmente Trabalhando com Delphi/Java/Flutter. 
 
 <div align="Left" > 
   <div style="display: inline_block"><br> 
-     <label> 🌱 Estudando AWS Web Services e Java (Spring Boot) :</label>
+     <label> 🌱 Estudando Java/Flutter (Spring Boot) :</label>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
 
